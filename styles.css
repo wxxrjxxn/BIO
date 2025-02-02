@@ -16,6 +16,10 @@ ad {
     text-transform: uppercase;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 header {
     text-align: center;
     padding: 35px;
